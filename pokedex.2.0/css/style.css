@@ -1,0 +1,40 @@
+h1{
+    color: #9c56d4;
+    font-size: larger;
+}
+
+.agua {
+    color: blue;
+    font-size: larger;
+}
+
+.fogo {
+    color: red;
+    font-size: larger;
+}
+
+.ar {
+    color: blue;
+    font-size: larger;
+}
+
+.grama {
+    color: green;
+    font-size: larger;
+}
+
+img {
+    max-width: 90%;
+}
+
+#conteudo-pokemon {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: 1px solid #9b9b9b;
+    border-radius: 10px;
+    width: 18%;
+    text-align: center;
+}
